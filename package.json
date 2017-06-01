@@ -26,6 +26,9 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   },
   "dependencies": {
-    "auth0-js": "^8.7.0"
+    "auth0-contact-form": "^2.0.3",
+    "auth0-js": "^8.7.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^2.2.4"
   }
 }
